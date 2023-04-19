@@ -9,4 +9,4 @@
     loop:
      - git
      - tree
-     - wegt  
+     - wget
