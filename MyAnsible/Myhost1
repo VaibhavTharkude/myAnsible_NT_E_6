@@ -1,5 +1,7 @@
+[mywebservers]
 172.31.9.166
 172.31.33.248 
+
 [mywebservers:vars]
 mywebpackageforubuntu= apache2
 mywebpackageforredhat= httpd
