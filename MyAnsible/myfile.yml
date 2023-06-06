@@ -5,4 +5,4 @@
   - name: create file on ansible nodes
     file:
        path: /home/ubuntu/mytestfile
-       state: present
+       state: touch
