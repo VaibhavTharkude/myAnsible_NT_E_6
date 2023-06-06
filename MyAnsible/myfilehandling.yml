@@ -4,7 +4,7 @@
   tasks:
   - include_tasks: myfile.yml
 
-  - name: i want to intsall webserver 
+  - name: i want to install webserver 
     apt:
       name: apache2
       state: present
